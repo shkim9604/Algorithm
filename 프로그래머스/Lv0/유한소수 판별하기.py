@@ -1,6 +1,5 @@
 import math
 
-
 def solution(a, b):
     answer = 0
     c = math.gcd(a, b)
@@ -10,7 +9,7 @@ def solution(a, b):
     if a % b == 0:
         answer = 1
     else:
-        for i in range(2, b+1):
+        for i in range(2, b + 1):
             if b % i == 0:
                 gcd.append(i)
         if gcd == []:
@@ -27,8 +26,3 @@ def solution(a, b):
                     answer = 1
 
     return answer
-
-
-a = 1
-b = 35
-print(solution(a, b))
