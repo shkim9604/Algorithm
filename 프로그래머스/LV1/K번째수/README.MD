@@ -1,5 +1,5 @@
 # Lv1 K번쨰수
- [K번째수 링크]("https://school.programmers.co.kr/learn/courses/30/lessons/42748")
+ [K번째수 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
 
 ### 테스트결과
  Time:0.00ms, Memory:9.23MB
