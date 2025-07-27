@@ -1,5 +1,5 @@
 # Lv1 3진법 뒤집기
- [3진법 뒤집기 링크]("https://school.programmers.co.kr/learn/courses/30/lessons/68935")
+ [3진법 뒤집기 링크](https://school.programmers.co.kr/learn/courses/30/lessons/68935)
 
 ### 테스트결과
  Time:0.02ms, Memory:9.35MB
