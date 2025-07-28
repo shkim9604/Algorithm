@@ -1,5 +1,5 @@
 # Lv1 직사각형 별찍기
- [직사각형 별찍기 링크]("https://school.programmers.co.kr/learn/courses/30/lessons/12969")
+ [직사각형 별찍기 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12969)
 
 ### 테스트결과
  Time:11.89ms, Memory:7.52MB
