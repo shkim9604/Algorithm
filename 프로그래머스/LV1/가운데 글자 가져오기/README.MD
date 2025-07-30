@@ -1,5 +1,5 @@
 # Lv1 가운데 글자 가져오기
- [가운데 글자 가져오기 링크]("https://school.programmers.co.kr/learn/courses/30/lessons/12903")
+ [가운데 글자 가져오기 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12903)
 
 ### 테스트결과
  Time:0.00ms, Memory:9.19MB
