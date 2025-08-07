@@ -1,5 +1,5 @@
-# Lv1 이상한 문자 만들기
- [이상한 문자 만들기 링크]("https://school.programmers.co.kr/learn/courses/30/lessons/142086")
+# Lv1 가장 가까운 같은 글자
+ [가장 가까운 같은 글자 링크](https://school.programmers.co.kr/learn/courses/30/lessons/142086)
 
 ### 테스트결과
  Time:4.32ms, Memory:9.39MB
