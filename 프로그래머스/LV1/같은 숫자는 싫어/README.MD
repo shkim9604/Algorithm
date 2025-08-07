@@ -1,5 +1,5 @@
 # Lv1 같은 숫자는 싫어
- [같은 숫자는 싫어 링크]("https://school.programmers.co.kr/learn/courses/30/lessons/12906")
+ [같은 숫자는 싫어 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12906)
 
 ### 테스트결과
  Time:0.00ms, Memory:9.13MB
