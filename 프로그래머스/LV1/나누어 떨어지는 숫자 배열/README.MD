@@ -1,5 +1,5 @@
 # Lv1 나누어 떨어지는 숫자 배열
- [나누어 떨어지는 숫자 배열 링크]("https://school.programmers.co.kr/learn/courses/30/lessons/12910")
+ [나누어 떨어지는 숫자 배열 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12910)
 
 ### 테스트결과
  Time:0.08ms, Memory:9.11MB
