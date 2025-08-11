@@ -1,5 +1,5 @@
 # Lv1 문자열 내 p와 y의 개수
- [문자열 내 p와 y의 개수 링크]("https://school.programmers.co.kr/learn/courses/30/lessons/12916")
+ [문자열 내 p와 y의 개수 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12916)
 
 ### 테스트결과
  Time:0.00ms, Memory:9.23MB
