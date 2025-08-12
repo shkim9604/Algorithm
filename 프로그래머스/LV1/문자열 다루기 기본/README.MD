@@ -1,5 +1,5 @@
 # Lv1 문자열 다루기 기본
- [문자열 다루기 기본 링크]("https://school.programmers.co.kr/learn/courses/30/lessons/12918")
+ [문자열 다루기 기본 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12918)
 
 ### 테스트결과
  Time:0.06ms, Memory:9.25MB
