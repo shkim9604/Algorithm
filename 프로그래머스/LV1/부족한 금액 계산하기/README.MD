@@ -1,5 +1,5 @@
 # Lv1 부족한 금액 계산하기
- [부족한 금액 계산하기 링크]("https://school.programmers.co.kr/learn/courses/30/lessons/82612")
+ [부족한 금액 계산하기 링크](https://school.programmers.co.kr/learn/courses/30/lessons/82612)
 
 ### 테스트결과
  Time:0.06ms, Memory:9.25MB
