@@ -1,5 +1,5 @@
-# Lv1 수박수박수박수박수박수
- [내적 링크]("https://school.programmers.co.kr/learn/courses/30/lessons/12922")
+# Lv1 수박수박수박수박수박
+ [수박수박수박수박수박 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12922)
 
 ### 테스트결과
  Time:0.00ms, Memory:9.14MB
