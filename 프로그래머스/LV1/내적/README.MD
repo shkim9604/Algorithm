@@ -1,5 +1,5 @@
 # Lv1 내적
- [내적 링크]("https://school.programmers.co.kr/learn/courses/30/lessons/70128")
+ [내적 링크](https://school.programmers.co.kr/learn/courses/30/lessons/70128)
 
 ### 테스트결과
  Time:0.07ms, Memory:9.05MB
