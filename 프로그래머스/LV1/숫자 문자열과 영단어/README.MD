@@ -1,5 +1,5 @@
 # Lv1 숫자 문자열과 영단어
- [숫자 문자열과 영단어 링크]("https://school.programmers.co.kr/learn/courses/30/lessons/81301")
+ [숫자 문자열과 영단어 링크](https://school.programmers.co.kr/learn/courses/30/lessons/81301)
 
 ### 테스트결과
  Time:0.02ms, Memory:9.35MB
