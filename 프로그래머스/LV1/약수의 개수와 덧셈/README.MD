@@ -1,5 +1,5 @@
 # Lv1 약수의 개수와 덧셈
- [약수의 개수와 덧셈 링크]("https://school.programmers.co.kr/learn/courses/30/lessons/77884")
+ [약수의 개수와 덧셈 링크](https://school.programmers.co.kr/learn/courses/30/lessons/77884)
 
 ### 테스트결과
  Time:0.63ms, Memory:9.05MB
