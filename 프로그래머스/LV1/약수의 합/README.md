@@ -1,5 +1,5 @@
 # Lv1 약수의합
- [약수의 합 링크]("https://school.programmers.co.kr/learn/courses/30/lessons/12928")
+ [약수의 합 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12928)
 
 ### 테스트결과
  Time:0.15ms, Memory: 9MB
