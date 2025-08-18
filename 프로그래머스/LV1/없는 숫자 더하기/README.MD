@@ -1,5 +1,5 @@
 # Lv1 없는 숫자 더하기
- [없는 숫자 더하기 링크]("https://school.programmers.co.kr/learn/courses/30/lessons/86051")
+ [없는 숫자 더하기 링크](https://school.programmers.co.kr/learn/courses/30/lessons/86051)
 
 ### 테스트결과
  Time:0.00ms, Memory:9.14MB
