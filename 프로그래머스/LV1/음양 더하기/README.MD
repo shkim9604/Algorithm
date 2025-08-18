@@ -1,5 +1,5 @@
 # Lv1 음양 더하기
- [음양 더하기 링크]("https://school.programmers.co.kr/learn/courses/30/lessons/76501")
+ [음양 더하기 링크](https://school.programmers.co.kr/learn/courses/30/lessons/76501)
 
 ### 테스트결과
  Time:0.06ms, Memory:9.14MB
