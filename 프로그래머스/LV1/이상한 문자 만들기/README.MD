@@ -1,5 +1,5 @@
 # Lv1 이상한 문자 만들기
- [이상한 문자 만들기 링크]("https://school.programmers.co.kr/learn/courses/30/lessons/12930")
+ [이상한 문자 만들기 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12930)
 
 ### 테스트결과
  Time:0.02ms, Memory:9.24MB
