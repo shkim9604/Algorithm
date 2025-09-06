@@ -1,5 +1,5 @@
 # Lv2 다음 큰 숫자
- [올바른 괄호 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12909)
+ [다음 큰 숫자 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12911)
 
 ### 테스트결과
  Time:0.00ms, Memory:9.28MB
